@@ -14,5 +14,6 @@ Prompt Engineering Guide
 
 ## Papers
 [Active Prompting with Chain-of-Thought for Large Language Models](https://arxiv.org/pdf/2302.12246.pdf)
+[REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629.pdf)
 
 
